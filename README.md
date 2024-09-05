@@ -15,7 +15,7 @@ Each project highlights key tools and methodologies used, including machine lear
    - **Skills**: Tableau, Data Visualization, Sales Analysis  
    - **Summary**: Developed an interactive dashboard to analyze book sales, marketing ROI, and inventory turnover. The project identified high-performing genres and authors, helping optimize inventory and marketing spend.
 
-### [Car Price Prediction](https://github.com/Arka772/Portfolio-Projects/tree/main/Car%20Price%20Prediction)
+### 3. [Car Price Prediction](https://github.com/Arka772/Portfolio-Projects/tree/main/Car%20Price%20Prediction)
 - **Skills Used**: Python, Machine Learning, Regression Analysis  
 - **Summary**: This project explores car price prediction using machine learning techniques. Various algorithms, including Linear Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, were tested. After comprehensive data analysis, feature selection, and model tuning, the **AdaBoostRegressor** demonstrated the best performance:
   - **R2 Value**: 0.9852
