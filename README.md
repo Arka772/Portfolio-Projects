@@ -26,7 +26,7 @@ Each project highlights key tools and methodologies used, including machine lear
 
 ### 4. [Customer Churn Prediction](./Customer%20Churn%20Prediction)
    - **Skills**: Python, Machine Learning, Data Analysis  
-   - **Summary**: Created a model to predict customer churn in the banking sector. Using Random Forest and Logistic Regression, the model achieved 82% accuracy, helping identify at-risk customers for retention efforts.
+   - **Summary**: The project aimed to predict customer churn for a European bank using machine learning. Key steps included data cleaning, exploratory data analysis (EDA), and statistical feature selection. Three models were developed: Logistic Regression, Decision Tree, and Random Forest. The Random Forest model achieved the highest accuracy of 82%, with balanced precision and recall, making it the best-performing model. Key predictors of churn were NumOfProducts, IsActiveMember, and Balance. Visualizations like the confusion matrix and ROC curve confirmed the model's robustness, with an AUC of 0.84. The final model can help the bank identify at-risk customers for targeted retention efforts.
 
 ### 5. [Iris Dataset Classification](./Iris%20Dataset%20Classification)
    - **Skills**: Python, Classification, Data Analysis  
