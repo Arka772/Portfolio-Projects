@@ -40,7 +40,7 @@ Each project highlights key tools and methodologies used, including machine lear
    - **Skills**: SQL, Data Analysis  
    - **Summary**: Analyzed arrest data from NYPD to identify trends in demographics, crime locations, and timings. The findings highlighted areas for resource allocation and potential policy improvements.
 
-### 8. [VBA Automation for Splitting Data into Different Sheets by Region](./VBA%20Automation%20for%20Splitting%20Data)
+### 8. [VBA Automation for Splitting Data into Different Sheets by Region](./VBA%20Task%3A%20Split%20Data%20by%20Region)
    - **Skills**: VBA, Excel Automation
    - **Summary**: Created a VBA macro to automate the process of splitting data into separate sheets based on region with a single click. This project helps streamline data organization and reporting by automatically segregating data into region-specific sheets.
 
