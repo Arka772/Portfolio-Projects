@@ -15,7 +15,7 @@ This project involves automating the process of splitting data by regions in Exc
 - **User-friendly**: The macro can be run from a button embedded in the workbook, requiring no manual intervention.
 
 ### How to Use
-1. **Open the Workbook**: Download and open the Excel workbook (`VBA Code Split Data.xlsm`).
+1. **Open the Workbook**: Download and open the Excel workbook: [VBA Code Split Data.xlsm](./VBA%20Code%20Split%20Data.xlsm)
 2. **Run the Macro**: Click the button labeled "Split Data by Region" to execute the VBA macro.
 3. **Output**: The workbook will create new sheets for each region, populated with the corresponding data.
 
